@@ -1,0 +1,42 @@
+body {
+	background-color: #ffffff;
+	margin-top: 80px;
+	margin-right: 220px;
+	margin-left: 220px;
+	margin-bottom: 150px;
+}
+
+h1 {
+	color: #6e22b4;
+}
+
+p {
+	color: #000000
+}
+
+a {
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#text {
+	color: #000000;
+	
+}
+
+a:link {
+	color: #000000;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #666666;
+}
+
+a:hover {
+	color: #CCCCCC;
+}
+a:active {
+	color: #666666;
+	}
+}

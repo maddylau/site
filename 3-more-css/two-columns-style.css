@@ -1,0 +1,64 @@
+img {
+	margin: 20px 220px 30px 220px;
+}
+
+.social-buttons {
+	position: fixed;
+	bottom: 0;
+	left: 3%;
+}
+
+.button {
+	margin: 0;
+}
+
+.nav {
+	text-align: center;
+}
+
+.nav-url a:link {
+	text-decoration: none;
+	text-transform: lowercase;
+	font-weight: normal;
+}
+
+.nav-links, .nav-links-last {
+	display: inline;
+	padding: 5px 5px 0px 10px;
+	border-right-style: solid;
+	border-color: pink;
+	border-width: 1px;
+}
+
+.nav-links-last {
+	border-right-style: none;
+}
+
+.column-left {
+	float: left;
+	width: 400px;
+	margin: 50px 19px 200px 210px;
+}
+
+.column-right {
+	float: left;
+	width: 400px;
+	margin: 50px 100px 200px 19px;
+}
+
+.box {
+	margin: 10px;
+	background-color: #ccc;
+	padding: 20px;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+}
+
+a:link {
+	color: #000;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+

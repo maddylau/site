@@ -1,0 +1,54 @@
+.hero-img {
+	width: 1000px;
+	height: 500px;
+	margin: 50px 120px 30px 120px;
+}
+
+.nav {
+	margin: 0 250px 0 250px;
+	text-transform: uppercase;
+	border-style: solid;
+	border-radius: 20px;
+	padding: 15px;
+}
+
+.nav-url {
+	display: inline;
+	margin: 0 35px 0 35px;
+}
+
+.col-title {
+	font-weight: bold;
+	text-align: left;
+}
+
+.col-1 {
+	float: left;
+	margin: 70px 0 50px 130px;
+	width: 700px;
+}
+
+.col-2 {
+	float: left;
+	margin: 70px 0 50px 30px;
+	width: 260px;
+}
+
+.col-pic {
+	height:350px;
+	width: 500px;
+}
+
+.col-urls a:link {
+	text-decoration: underline;
+}
+
+a:link {
+	text-decoration: none;
+	color: #000;
+	cursor: pointer;
+}
+
+a:hover {
+	font-weight: bold;
+}

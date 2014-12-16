@@ -1,0 +1,68 @@
+img {
+	margin: 20px 220px 30px 220px;
+}
+
+.social-buttons {
+	position: fixed;
+	bottom: 0;
+	left: 3%;
+}
+
+.button {
+	margin: 0;
+}
+
+.nav {
+	text-align: center;
+}
+
+.nav-url a:link {
+	text-decoration: none;
+	text-transform: lowercase;
+	font-weight: normal;
+}
+
+.nav-links, .nav-links-last {
+	display: inline;
+	padding: 5px 5px 0px 10px;
+	border-right-style: solid;
+	border-color: pink;
+	border-width: 1px;
+}
+
+.nav-links-last {
+	border-right-style: none;
+}
+
+.column-left {
+	float: left;
+	width: 320px;
+	margin: 50px 10px 50px 120px;
+}
+
+.column-mid {
+	float: left;
+	width: 320px;
+	margin: 50px 10px 50px 20px;
+}
+
+.column-right {
+	float: left;
+	width: 320px;
+	margin: 50px 50px 50px 20px;
+}
+
+.box {
+	margin: 20px;
+	padding: 20px;
+	background-color: #ccc;
+	border-style: solid;
+	border-color: #000;
+	border-width: 1px;
+}
+
+a:link {
+	text-decoration: underline;
+	color: #000;
+	font-weight: bold;
+}
